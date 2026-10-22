@@ -4,7 +4,7 @@ import './App.css'
 const messages = [
   'i love u',
   'hello baby',
-  'im okie',
+  'goodmorning',
   'sorry i didnt',
   'mean to not',
   'answer you',
