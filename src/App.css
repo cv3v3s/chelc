@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Kallum';
-  src: url('/fonts/Kallum.ttf') format('truetype');
+  src: url('/chelc/fonts/Kallum.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -63,7 +63,7 @@
   width: 320px;
   max-width: 85vw;
   min-height: 160px;
-  background-image: url('/chatbubble.png');
+  background-image: url('/chelc/chatbubble.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;

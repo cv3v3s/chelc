@@ -65,7 +65,7 @@ function App() {
       >
         <img
           ref={gifRef}
-          src="/celin.gif"
+          src="/chelc/celin.gif"
           className="avatar-gif"
           alt="Celin"
         />
